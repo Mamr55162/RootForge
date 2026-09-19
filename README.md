@@ -316,5 +316,6 @@ sources or dependencies required.
 
 ## License
 
-Add your preferred license here (e.g. MIT, Apache 2.0) before publishing
-the repository publicly.
+This project is licensed under the MIT License.
+
+See the LICENSE file for details.
